@@ -1,2 +1,2 @@
 def care():
-    print("I dont fucking care~~~")
+    print("I dont care~~~")
